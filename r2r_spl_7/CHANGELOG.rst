@@ -2,8 +2,8 @@
 Changelog for package r2r_spl_7
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.1.0 (2024-04-14)
+------------------
 * Ensure tests don't communicate with each other, by changing team number, and hence udp port number
 * Contributors: Kenji Brameld
 
