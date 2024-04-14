@@ -2,6 +2,9 @@
 Changelog for package splsm_7_conversion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 2.0.1 (2022-08-09)
 ------------------
 * Change SPLSM msg data field to bounded array
